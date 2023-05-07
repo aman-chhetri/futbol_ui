@@ -3,16 +3,15 @@
 > Live demo [_here_](https://www.figma.com/file/5xxyS8WMesfHP4hm2wkJCH/UI-timate?type=design&node-id=0%3A1&t=GJRVFDnRkjuH9bvU-1). <!-- Project Link -->
 
 ## Table of Contents
-* [Inspiration💡](#inspiration)
-* [What it does⚙️](#what_it_does)
-* [How we built it🛠️](#built)
+* [Inspiration 💡](#inspiration)
+* [What it does ⚙️](#what_it_does)
+* [How we built it 🛠️](#built)
 * [Challenges we ran into 😓](#challenges)
 * [Accomplishments that we're proud of 🏅](#accomplishments)
 * [What we learned 🎓](#learning)
 * [What's next for Futbol UI 🔜](#what-next)
 * [Screenshots 🖼️](#screenshots)
 * [Contact 📩](#contact)
-<!-- * [License](#license) -->
 
 ## Inspiration 💡
 As football enthusiasts, we wanted to create a platform that provides everything football-related in one place. The inspiration behind Futbol UI was to create a seamless shopping experience for football fans who want to buy authentic and high-quality football gear.
